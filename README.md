@@ -82,4 +82,4 @@ Here are a few directions this project can evolve in:
 4. Integrate with CRM's or ERP's to automatically fetch Invoices and POs and other documents. 
 5. Add interactive UI and deploy on the cloud.
 
-## Made with ❤️ using AI, Python, and a passion for automation.
+**Made with ❤️ using AI, Python, and a passion for automation.**
