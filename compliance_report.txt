@@ -1,0 +1,22 @@
+====== DOCUMENT COMPLIANCE REPORT ======
+Generated on: 2025-05-22 19:06:03
+
+Invoice Details:
+  Invoice No: None
+  Invoice Date: 2024-01-15
+  PO No: None
+  Vendor: LEMINAR AIR CONDITIONING CO. LLC
+
+Delivery Document Details:
+  PO No: None
+  Delivery Date: 2024-01-14
+  Received Quantities: None
+
+Compliance Check Results:
+  ✅ Match invoice PO number with delivery note PO number. → Invoice PO number matches delivery note PO number.
+  ✅ Ensure invoice date is on or after delivery note date. → Invoice date is on or after delivery date.
+  ❌ Each line item in the invoice should have quantity less than or equal to received quantity in the delivery note. → Invoice items or delivery items are missing.
+  ❌ Invoice total amount must be within 2% of sum of all line totals. → Invoice total amount or invoice items are missing.
+  ❌ Vendor name in the invoice should be LEMINAR AIR CONDITIONING CO. LLC. → Vendor name is missing in the invoice.
+
+Final Status: ❌ NON-COMPLIANT

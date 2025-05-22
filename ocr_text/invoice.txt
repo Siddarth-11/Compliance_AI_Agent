@@ -1,0 +1,46 @@
+Tax Invoice
+
+Tax Registration Number QQ
+
+Customer No 128659 Invoice No 626867-ADS1-1
+Customer Name Invoice Date 12-Aug-2023
+SO No SO-153412
+Bill To Address -O. BOX 7946, Due Date 10-Dec-2023
+Ruwi, PO No 1002475
+Oman
+Customer Tax Reg No Sales Man
+Phone Delivery Note No 626867-ADS1-1
+Fax Currency AED
+Contact Person Exchange Rate l
+Project Name INTERCOMPANY
+Sr Item Code & Description Quantity UOM Unit Price Total Amount VAT Total Amount
+No (Excluding VAT) —_Rate(%) Amount (Including VAT)
+1 WEICCO Rubber Support Insert 25mm, 35.00 SET 4.82 168.70 0.00 168.70
+RSI 3" X 25mm (Width-38mm)
+Total Amount (Excluding VAT) 168.70
+VAT Amount 0.00
+Total Amount in Words AED One Hundred Sixty Eight and 70/100 Only. Total Amount (Including VAT) 168.70
+Payment Terms LPO - 120 Days
+Bank Details Ship to Address P.O. Box :946,
+Bank Name Ruwi,
+Branch Name Oman
+
+Account Number
+IBAN
+
+Swift Code
+Other Terms and
+Conditions
+
+Prepared By
+
+Ofelia
+
+Receivers Name
+Receivers Sign & Date
+
+Authorized By
+
+Page | of 1
+
+
