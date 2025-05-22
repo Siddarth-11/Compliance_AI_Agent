@@ -52,7 +52,9 @@ source venv/bin/activate  | On Windows: venv\Scripts\activate
 ### 3. Install Requirements
 
 pip install -r requirements.txt
+
 **Installation Notes:**
+
 1. Tesseract OCR must be installed separately:
 
     - Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki
